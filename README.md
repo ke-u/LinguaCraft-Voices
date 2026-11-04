@@ -30,10 +30,14 @@
 ## What it adds
 
 **Every word, spoken**
-Every block, item, mob and potion effect is spoken in each of LinguaCraft's 17 languages.
+Every block, item, mob and potion effect is spoken in every language LinguaCraft teaches, including Catalan, Georgian, Kazakh, Korean, Portuguese (Portugal) and Chinese (Traditional), new in 1.1.
 
 **Hear it when you need it**
 Words play when a prompt asks for them. Press **Hear it** to hear the word again during any prompt, or click any word in your Discoveries (**J**). Set how loud they are with *Voice volume* in Settings.
+
+<div align="center">
+<img src="screenshots/discoveries.png" alt="Click any word in Discoveries to hear it" width="560">
+</div>
 
 **Word hunts come alive**
 With the add-on, a word hunt plays the word you're looking for, louder and faster the closer you get. You can change the volume for each distance in Settings.
@@ -56,8 +60,8 @@ No. LinguaCraft works fine without it: you'll still see every word, you just won
 **By hand:**
 
 1. Install **LinguaCraft** and **Fabric API** first.
-2. Download the latest `linguacraft-voices.jar` from **[Releases](https://github.com/ke-u/linguacraft-voices/releases/latest)**.
-3. Put `linguacraft-voices.jar` in your `.minecraft/mods` folder, next to `linguacraft-x.x.x.jar`.
+2. Download the latest `linguacraft-voices-x.x.x.jar` from **[Releases](https://github.com/ke-u/linguacraft-voices/releases/latest)**.
+3. Put `linguacraft-voices-x.x.x.jar` in your `.minecraft/mods` folder, next to `linguacraft-x.x.x.jar`.
 4. Launch the game. LinguaCraft finds the voices by itself, with no setup needed.
 
 ---
